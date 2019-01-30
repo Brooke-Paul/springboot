@@ -1,4 +1,4 @@
-package com.xt.configtool;
+package com.xt;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class ConfigtoolApplicationTests {
+public class SpringApplicationTests {
 
     @Test
     public void contextLoads() {
